@@ -100,7 +100,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'affairal_db',
-        'USER': 'abhishek.upadhyay',
+        'USER': 'affairal',
         'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '',
